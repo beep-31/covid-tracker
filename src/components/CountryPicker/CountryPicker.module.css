@@ -1,0 +1,14 @@
+.formControl{
+    width: 30%;
+    margin-bottom: 30px !important;
+}
+
+select{
+    text-align: center;
+}
+
+option{
+    text-align: center;
+    background-color: #34495e !important;
+    color: white;
+}
